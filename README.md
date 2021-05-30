@@ -20,3 +20,7 @@
 * A primeira implantação é a mais complicada e pode envolver diversos profissionais e áreas;
 * A não mensuração da implantação impacta em: custo, prazo e esforço. É necessário planejar e saber o que mensurar nessa etapa;
 * Método de medição: Analisando a Base de Projetos formada pela empresa, deve-se obter o esforço médio de implantação com cada atividade da implantação: instalação de banco de dados, instalação de bibliotecas, configuração de usuários, etc.
+
+
+## Referências Bibliográficas:
+* Métricas de software: <http://metricasdesoftware.com.br/metricas/>
