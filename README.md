@@ -9,6 +9,10 @@
 
 ## Etapa 4 – Métricas
 ### - Calcular o número de pontos de função estimado para o Sistema
+
+Se encontra na planilha Excel de cálculo de pontos de função no repositório;
+
+
 ### - Definir quais seriam as métricas para acompanhar o desenvolvimento do Sistema
 1. Métricas de Performance:
 * É uma métrica importante para determinar o sucesso e fracasso da aplicação;
