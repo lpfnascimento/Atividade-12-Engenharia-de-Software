@@ -21,6 +21,10 @@
 * A não mensuração da implantação impacta em: custo, prazo e esforço. É necessário planejar e saber o que mensurar nessa etapa;
 * Método de medição: Analisando a Base de Projetos formada pela empresa, deve-se obter o esforço médio de implantação com cada atividade da implantação: instalação de banco de dados, instalação de bibliotecas, configuração de usuários, etc.
 
+## Etapa 6 – Teste de Software
+
+A planilha com os teste se encontra nesse repositório.
+
 
 ## Referências Bibliográficas:
 * Métricas de software: <http://metricasdesoftware.com.br/metricas/>
