@@ -1,4 +1,12 @@
 # Atividade-12-Engenharia-de-Software
+
+
+Alunos:
+João Ricardo Miranda
+Liliane Paulino F. do Nascimento
+Lucas dos Santos Ferrete
+
+
 ## Etapa 1 – Requisitos – Diagrama de Casos de Uso:
   Arquivo se encontra no repositório do Github.
 
